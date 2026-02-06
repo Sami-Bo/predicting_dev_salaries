@@ -19,3 +19,20 @@ Ce projet m’a permis de mieux comprendre toutes les étapes d’un projet de d
 
 Ces améliorations permettront d’augmenter la qualité du modèle et la valeur pratique du projet.
 
+---
+
+## Dataset
+
+Le dataset utilisé n'est pas fourni mais peut être retrouvé à l'adresse suivante :
+https://app.dataquest.io/m/950/predicting-developer-salaries%3A-a-machine-learning-analysis-of-stack-overflow-survey-data/1/explore-the-raw-survey
+
+---
+## Technologies et installation
+
+**Technologies utilisées :** Python, scikit-learn, matplotlib, seaborn, LinearRegression, train_test_split
+
+**Instructions pour reproduire le projet :**
+1. Cloner le dépôt : `git clone https://github.com/Sami-Bo/predicting_dev_salaries.git`
+2. Installer les librairies nécessaires : `pip install scikit-learn matplotlib seaborn`
+3. Ouvrir le notebook : `Jupyter Notebook` ou `VS Code`
+4. Exécuter les cellules dans l’ordre pour reproduire l’analyse et les visualisations
