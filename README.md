@@ -3,11 +3,11 @@
 ## Résumé
 Dans ce projet, j’ai construit un modèle de machine learning pour prédire les salaires des développeurs à partir de données d’enquête.
 
-J’ai nettoyé et préparé des données à grande échelle en gérant les valeurs manquantes et les valeurs aberrantes.  
-J’ai créé de nouvelles variables à partir de colonnes multi-choix et encodé les variables catégorielles.  
-J’ai réduit la multicolinéarité et sélectionné des variables pertinentes pour la modélisation.  
-J’ai entraîné un modèle de régression linéaire et évalué ses performances selon différentes tranches de salaire.  
-J’ai analysé l’impact des compétences, des rôles et des caractéristiques des entreprises sur les salaires.  
+- J’ai nettoyé et préparé des données à grande échelle en gérant les valeurs manquantes et les valeurs aberrantes.  
+- J’ai créé de nouvelles variables à partir de colonnes multi-choix et encodé les variables catégorielles.  
+- J’ai réduit la multicolinéarité et sélectionné des variables pertinentes pour la modélisation.  
+- J’ai entraîné un modèle de régression linéaire et évalué ses performances selon différentes tranches de salaire.  
+- J’ai analysé l’impact des compétences, des rôles et des caractéristiques des entreprises sur les salaires.  
 Ce projet m’a permis de mieux comprendre toutes les étapes d’un projet de data science, du prétraitement des données à l’interprétation des résultats.
 
 ## Prochaines étapes
